@@ -5,3 +5,4 @@
 4. [Ransom Note](maps/383/main.go) ([383](https://leetcode.com/problems/ransom-note/))
 5. [Search Insert Position](binary_search/35/main.go) ([35](https://leetcode.com/problems/search-insert-position/))
 6. [Recyclable and Low Fat Products](sql/1757/req.sql) ([1757](https://leetcode.com/problems/recyclable-and-low-fat-products/))
+7. [Find Customer Referee](sql/584/req.sql) ([584](https://leetcode.com/problems/find-customer-referee/))
