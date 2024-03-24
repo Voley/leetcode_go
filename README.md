@@ -13,3 +13,4 @@
 12. [Product Sales Analysis I](sql/1068/req.sql) ([1068](https://leetcode.com/problems/product-sales-analysis-i/))
 13. [Not Boring Movies](sql/620/req.sql) ([620](https://leetcode.com/problems/not-boring-movies/))
 14. [Average Selling Price](sql/1251/req.sql) ([1251](https://leetcode.com/problems/average-selling-price/))
+15. [Number of Unique Subjects Taught by Each Teacher](sql/2356/req.sql) ([2356](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/))
