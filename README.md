@@ -7,3 +7,4 @@
 6. [Recyclable and Low Fat Products](sql/1757/req.sql) ([1757](https://leetcode.com/problems/recyclable-and-low-fat-products/))
 7. [Find Customer Referee](sql/584/req.sql) ([584](https://leetcode.com/problems/find-customer-referee/))
 8. [Big Countries](sql/595/req.sql) ([595](https://leetcode.com/problems/big-countries/))
+9. [Article Views I](sql/1148/req.sql) ([1148](https://leetcode.com/problems/article-views-i/))
