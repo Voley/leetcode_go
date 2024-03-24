@@ -10,3 +10,4 @@
 9. [Article Views I](sql/1148/req.sql) ([1148](https://leetcode.com/problems/article-views-i/))
 10. [Invalid Tweets](sql/1683/req.sql) ([1683](https://leetcode.com/problems/invalid-tweets/))
 11. [Replace Employee ID With The Unique Identifier](sql/1378/req.sql) ([1378](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/))
+12. [Product Sales Analysis I](sql/1068/req.sql) ([1068](https://leetcode.com/problems/product-sales-analysis-i/))
