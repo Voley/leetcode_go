@@ -9,3 +9,4 @@
 8. [Big Countries](sql/595/req.sql) ([595](https://leetcode.com/problems/big-countries/))
 9. [Article Views I](sql/1148/req.sql) ([1148](https://leetcode.com/problems/article-views-i/))
 10. [Invalid Tweets](sql/1683/req.sql) ([1683](https://leetcode.com/problems/invalid-tweets/))
+11. [Replace Employee ID With The Unique Identifier](sql/1378/req.sql) ([1378](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/))
