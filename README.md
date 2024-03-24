@@ -12,3 +12,4 @@
 11. [Replace Employee ID With The Unique Identifier](sql/1378/req.sql) ([1378](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/))
 12. [Product Sales Analysis I](sql/1068/req.sql) ([1068](https://leetcode.com/problems/product-sales-analysis-i/))
 13. [Not Boring Movies](sql/620/req.sql) ([620](https://leetcode.com/problems/not-boring-movies/))
+14. [Average Selling Price](sql/1251/req.sql) ([1251](https://leetcode.com/problems/average-selling-price/))
