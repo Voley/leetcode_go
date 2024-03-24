@@ -16,3 +16,4 @@
 15. [Number of Unique Subjects Taught by Each Teacher](sql/2356/req.sql) ([2356](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/))
 16. [Employees Whose Manager Left the Company](sql/1978/req.sql) ([1978](https://leetcode.com/problems/employees-whose-manager-left-the-company/))
 17. [Managers with at Least 5 Direct Reports](sql/570/req.sql) ([570](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/?envType=study-plan-v2&envId=top-sql-50))
+18. [Customer Who Visited but Did Not Make Any Transactions](sql/1581/req.sql) ([1581](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/))
