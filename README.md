@@ -14,3 +14,4 @@
 13. [Not Boring Movies](sql/620/req.sql) ([620](https://leetcode.com/problems/not-boring-movies/))
 14. [Average Selling Price](sql/1251/req.sql) ([1251](https://leetcode.com/problems/average-selling-price/))
 15. [Number of Unique Subjects Taught by Each Teacher](sql/2356/req.sql) ([2356](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/))
+16. [Employees Whose Manager Left the Company](sql/1978/req.sql) ([1978](https://leetcode.com/problems/employees-whose-manager-left-the-company/))
