@@ -21,3 +21,4 @@
 20. [Rising Temperature](sql/197/req.sql) ([197](https://leetcode.com/problems/rising-temperature/))
 21. [Average Time of Process per Machine](sql/1661/req.sql) ([1661](https://leetcode.com/problems/average-time-of-process-per-machine/))
 22. [Employee Bonus](sql/577/req.sql) ([577](https://leetcode.com/problems/employee-bonus/))
+23. [Students and Examinations](sql/1280/req.sql) ([1280](https://leetcode.com/problems/students-and-examinations/))
